@@ -1,0 +1,38 @@
+.heading {
+    width: 100%;
+}
+
+h3 {
+    display: inline;
+    text-align: center;
+}
+
+.ins {
+    float: right;
+    font-size: 18px;
+}
+
+.bigImage {
+    width: 100%;
+}
+
+h4 {
+    background-color: aqua;
+    line-height: 2;
+    margin: 0;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.ins_img {
+    width: 45%;
+    display: inline-block;
+}
+video {
+background: url("game_console.png");
+background-size: cover;
+background-position: center;
+padding : 25px;
+}
